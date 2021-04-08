@@ -1,0 +1,389 @@
+    1  python -V
+    2  python3 -V
+    3  python3 main
+    4  python3 main.py
+    5  pip3 -V
+    6  sudo apt install python3-pip
+    7  pip3 -V
+    8  python3 main.py
+    9  pip3 install sqlalchemy
+   10  python3 main.py
+   11  pip3 install pandas
+   12  python3 main.py
+   13  sudo apt update
+   14  ls
+   15  pwd
+   16  sudo apt upgrade
+   17  cd C:\Users\ADMIN\Documents\SpotifyDataPipelineTest
+   18  cd c:
+   19  cd c:/
+   20  sudo su
+   21  cd /mnt/c
+   22  cd /usr/
+   23  ls
+   24  cd ./
+   25  cd ../
+   26  cd /mnt/c\Users\ADMIN\Documents\SpotifyDataPipelineTest
+   27  cd /mnt/c/Users\ADMIN\Documents\SpotifyDataPipelineTest
+   28  cd /mnt/c/Users
+   29  cd /mnt/c/Users/ADMIN/Documents/SpotifyDataPipelineTest
+   30  code .
+   31  exit
+   32  python3 main.py
+   33  cd /SpotifyDataPipelineTest
+   34  cd /mnt/c/Users/ADMIN/Documents/SpotifyDataPipeline/SpotifyDataPipelineTest
+   35  cd /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest
+   36  python3 main.py
+   37  cd /mnt/c
+   38  cd /Users/ADMIN/Documents
+   39  cd ../
+   40  cd /mnt/c/Users/Admin/Documents/SpotifyDataPipeline/SpotifyDatapipelineTest
+   41  code .
+   42  cd /
+   43  cd ~
+   44  cd /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline
+   45  code .
+   46  exit
+   47  python3 main.py
+   48  pwd
+   49  sudo usermod -d /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest -m pentor1998s
+   50  cd /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest
+   51  code .
+   52  exist
+   53  exitr
+   54  exit
+   55  pip3 -V
+   56  pip install virtualenv
+   57  pip3 install --upgrade pip==20.2.4
+   58  pip3 -V
+   59  apt update -y
+   60  apt update 
+   61  apt install python3.9
+   62  sudo apt install python3.9
+   63  sudo apt update 
+   64  python3 -V
+   65  sudo apt install python3.9
+   66  pip3 install virtualenv
+   67  virtualenv airflow-venv
+   68  source airflow-venv/bin/activate
+   69  export AIRFLOW_HOME=~/airflow
+   70  pip install apache-airflow
+   71  pip uninstall apache-airflow
+   72  AIRFLOW_VERSION=2.0.1
+   73  PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)
+   74  AIRFLOW_VERSION=2.0.1
+   75  PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"
+   76  # For example: 3.6
+   77  CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+   78  # For example: https://raw.githubusercontent.com/apache/airflow/constraints-2.0.1/constraints-3.6.txt
+   79  pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+   80  airflow db init
+   81  airflow users create     --username admin     --firstname Peter     --lastname Parker     --role Admin \
+   82  airflow db init
+   83  airflow users create     --username admin     --firstname Thomas     --lastname Tor     --role Admin     --email pentorework@gmail.com
+   84  airflow db init
+   85  pip install apache-airflow
+   86  AIRFLOW_VERSION=2.0.1
+   87  PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"
+   88  # For example: 3.6
+   89  CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+   90  # For example: https://raw.githubusercontent.com/apache/airflow/constraints-2.0.1/constraints-3.6.txt
+   91  pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+   92  airflow db init
+   93  airflow -V
+   94  pip uninstall airflow
+   95  pip uninstall apache-airflow
+   96  sudo su
+   97  airflow-V
+   98  airflow -V
+   99  rm -rf logs/
+  100  pip3 uninstall apache-airflow
+  101  exit
+  102  pip uninstall
+  103  pip3 uninstall
+  104  pip list
+  105  source airflow-venv/bin/activate
+  106  pip list
+  107  pip uninstall apache-airflow
+  108  quit
+  109  exit
+  110  ls
+  111  virtualenv -V
+  112  virtualenv --version
+  113  virtualenv airflow-venv
+  114  source airflow-venv/bin/activate
+  115  pip list
+  116  pip install --upgrade pip==20.2.4
+  117  export AIRFLOW_HOME=~/airflow
+  118  AIRFLOW_VERSION=2.0.1
+  119  echo AIRFLOW_VERSION
+  120  echo $AIRFLOW_VERSION
+  121  PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"
+  122  CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+  123  pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+  124  pip3 install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+  125  airflow --version
+  126  airflow -V
+  127  airflow --help
+  128  airflow db init
+  129  airflow users create     --username admin     --firstname Thomas     --lastname Tor     --role Admin     --email pentorework@gmail.com
+  130  airflow webserver --port 8080
+  131  ls
+  132  cd ~
+  133  ls
+  134  cd airflow/
+  135  nano airflow.cfg
+  136  airflow webserver --port 8080
+  137  ls
+  138  nano airflow.cfg
+  139  cd ~
+  140  cd /mnt/c/Users/admin/desktop
+  141  cd ~
+  142  /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest
+  143  exit
+  144  sor
+  145  source airflow-venv/bin/activate
+  146  airflow scheduler
+  147  airflow webserver --port 8080
+  148  exit
+  149  source airflow-venv/bin/activate
+  150  airflow schedule
+  151  airflow scheduler
+  152  cd ~
+  153  ls
+  154  cd airflow/
+  155  ls
+  156  nano airflow.cfg
+  157  cd ..
+  158  cd /Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest/dags
+  159  cd /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest/dags
+  160  cd ~
+  161  ls
+  162  cd airflow
+  163  nano airflow.cfg
+  164  cd ..
+  165  cd /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest/dags
+  166  airflow webserver --port 8080
+  167  source airflow-venv/bin/activate
+  168  airflow scheduler
+  169  cd /mnt/c/Users/Admin/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest
+  170  code .
+  171  exot
+  172  exit
+  173  source airflow-venv/bin/activate
+  174  airflow webserver -p 8080
+  175  airflow webserver --port 8080
+  176  source airflow-venv/bin/activate
+  177  airflow scheduler
+  178  source airflow-venv/bin/activate
+  179  airflow webserver --port 8080
+  180  pip --version
+  181  airflow webserver --port 8080
+  182  pip install beautifulsoup4
+  183  airflow webserver --port 8080
+  184  pip install spotify_etl
+  185  airflow webserver --port 8080
+  186  source airflow-venv/bin/activate
+  187  airflow scheduler
+  188  cd /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipeline
+  189  cd /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest
+  190  ls
+  191  code .
+  192  cd ..
+  193  cd .
+  194  cd /SpotifyDatePipelineTest
+  195  cd /mnt/c/Users/ADMIN/Desktop/SpotifyDataPipeline/SpotifyDataPipelineTest
+  196  python -V
+  197  python --version
+  198  python3 -V
+  199  code .
+  200  pip install spotify_etl
+  201  pip3 install spotify_etl
+  202  /usr/bin/python3 -m pip install --upgrade pip
+  203  pip install spotify_etl
+  204  pip install spotify_etl.py
+  205  pip --version
+  206  pip install Pillow-6.2.1-cp38-cp38-win_amd64.whl
+  207  pip install python3.8-distutils
+  208  python3 -V
+  209  sudo apt-get install python3.8-distutils
+  210  pip install beautifulsoup4
+  211  curl -X POST "https://example.com/v1/swap” -H "Content-Type: application/x-www-form-urlencoded" --data “code=BQCiNotcOrJdRn1P8cb0IOBAJWUVF5vcW8aWW18rSRDf-A69i75dHtYMJB8l2zKKBtNobOMWy0TE27wwpa2_JDPPgUoAGpBEGqfg6DF8qZi_DEOUHtNNaqqsP-cROAZu8EzbExMQXj5HQvq7qmT4y2OSMYwK9w_jtMDUMgkp"
+  212  quit
+  213  eix
+  214  exit
+  215  airflow --version
+  216  airflow version
+  217  python3 -m venv
+  218  python3 -m /venv
+  219  python3 -m ./venv
+  220  sudo python3 -m venv /venv
+  221  virtualenv airflow-venv
+  222  python3 covid19_etl.py 
+  223  virtualenv airflow-venv
+  224  python3 covid19_etl.py 
+  225  cd /mnt/c/Users/ADMIN/Desktop/Repos/Covid-19_DataPipeline
+  226  '
+  227  code .
+  228  python3 -V
+  229  python -V
+  230  python3 -m venv
+  231  python3 -m venv /
+  232  python3 -m /mnt/c/Users/ADMIN/Desktop/Repos/Covid-19_DataPipeline/venv
+  233  python3 -m /mnt/c/Users/ADMIN/Desktop/Repos/Covid-19_DataPipeline
+  234  python3 -m venv venv/mnt/c/Users/ADMIN/Desktop/Repos/Covid-19_DataPipeline/venv
+  235  sudo python3 -m venv venv/mnt/c/Users/ADMIN/Deskt
+  236  python3 -m venv venv
+  237  sudo python3 -m venv venv
+  238  sudo apt-get install python3-venv
+  239  sudo python3 -m venv venv
+  240  python3 covid19_etl.py 
+  241  source airflow-venv/bin/activate
+  242  export AIRFLOW_HOME=$(pwd)/airflow
+  243  quit
+  244  ls
+  245  airflow webserver --port 8080
+  246  airflow db init
+  247  airflow users create     --username admin     --firstname Thomas     --lastname Tor     --role Admin     --email pentor.wanthanai@gmail.com
+  248  airflow webserver --port 8080
+  249  source airflow-venv/bin/activate
+  250  airflow scheduler
+  251  nano airflow/airflow.cfg
+  252  airflow scheduler
+  253  cd /mnt/c/users/admin/desktop/Repos/Covid-19_DataPipeline
+  254  code .
+  255  exit
+  256  source airflow-venv/bin/activate
+  257  airflow webserver --port 8080
+  258  airflow users create     --username pentor     --firstname Peter     --lastname Parker     --role Admin     --email spiderman@superhero.org
+  259  airflow webserver --port 8080
+  260  airflow webserver --port 3000
+  261  airflow db init
+  262  airflow webserver --port 3000
+  263  source airflow-venv/bin/activate
+  264  airflow scheduler
+  265  cd /mnt/c/users/admin/desktop/repos/Covid19_Datapipeline
+  266  cd /mnt/c/users/admin/desktop/repos/Covid-19_DataPipeline
+  267  code .
+  268  source airflow-venv/bin/activate
+  269  airflow webserver --port 3000
+  270  exit
+  271  source airflow-venv/bin/activate
+  272  ls
+  273  cd ~
+  274  ls
+  275  cd airflow/
+  276  ls
+  277  nano airflow.
+  278  nano airflow.cfg
+  279  exit
+  280  source airflow-venv/bin/activate
+  281  ls
+  282  airflow webserver --port 8080
+  283  source airflow-venv/bin/activate
+  284  airflow scheduler
+  285  source airflow-venv/bin/activate
+  286  airflow db init
+  287  airflow webserver --port 8080
+  288  AIRFLOW_VERSION=2.0.1
+  289  PYTHON_VERSION="$(python --version | cut -d " " -f 2 | cut -d "." -f 1-2)"
+  290  CONSTRAINT_URL="https://raw.githubusercontent.com/apache/airflow/constraints-${AIRFLOW_VERSION}/constraints-${PYTHON_VERSION}.txt"
+  291  pip install "apache-airflow==${AIRFLOW_VERSION}" --constraint "${CONSTRAINT_URL}"
+  292  airflow db init
+  293  airflow users create     --username admin     --firstname Peter     --lastname Parker     --role Admin     --email spiderman@superhero.org
+  294  airflow webserver --port 8080
+  295  ls
+  296  cd airflow
+  297  ls
+  298  nano airflow.cfg
+  299  airflow webserver --port 8080
+  300  source airflow-venv/bin/activate
+  301  airflow scheduler
+  302  cd /mnt/c/users/admin/desktop/repos/Covid-19_DataPipeline
+  303  code .
+  304  cd ~
+  305  cd /mnt/c/users/admin/desktop/SpotifyDataPipeline/SpotifyDataPipelineTest
+  306  code .
+  307  cd ~
+  308  cd /mnt/c/users/admin/desktop/repos/Covid-19_DataPipeline
+  309  code .
+  310  date
+  311  ำประ
+  312  exit
+  313  wsl --install
+  314  sudo wsl --install
+  315  sudo wsl.exe --install
+  316  wsl --set-default-version 2
+  317  sudo wsl --set-default-version 2
+  318  sudo su
+  319  sudo apt wsl --install
+  320  sudo apt wsl 
+  321  sudo apt wsl.exe 
+  322  wsl --set-default-version 2
+  323  sudo apt install wsl
+  324  wsl --set-default-version 2
+  325  wsl --help
+  326  wsl -h
+  327  sudo apt install wsl2
+  328  wsl -l -v
+  329  wsl --list --verbose
+  330  wsl identify
+  331  wsl -V
+  332  exit
+  333  sudo apt update
+  334  exit
+  335  pip install flask
+  336  python3 src/server.py
+  337  pip freeze | grep 'Flask' >> requirements.txt
+  338  FROM python:3.9
+  339  WORKDIR /code 
+  340  COPY requirements.txt . 
+  341  RUN pip install -r requirements.txt
+  342  COPY src/ .
+  343  CMD ["python", "./server.py"]
+  344  /mnt/c/Users/Admin/Desktop/Repos/PythonAppByDocker
+  345  cd /mnt/c/Users/Admin/Desktop/Repos/PythonAppByDocker
+  346  code .
+  347  exit
+  348  sudo do-release-upgrade -d
+  349  cd /mnt/c/users/admin/desktop/repos/PythonAppByDocker
+  350  code .
+  351  docker version
+  352  docker images
+  353  sudo docker images
+  354  docker run -d -p 80:80 docker/getting-started
+  355  docker version
+  356  docker images
+  357  docker run hello-world
+  358  sudo docker run hello-world
+  359  docker run -d -p 80:80 docker/getting-started
+  360  sudo docker run -d -p 80:80 docker/getting-started
+  361  sudo docker images
+  362  sudo vim my-first-python-app
+  363  docker build -t my-first-python-app .
+  364  docker build -t my-first-python-app 
+  365  docker build -t my-first-python-app .
+  366  sudo vim Dockerfile
+  367  docker build -t my-first-python-app .
+  368  sudo docker build -t my-first-python-app .
+  369  docker build -t my-first-python-app .
+  370  sudo docker build -t my-first-python-app .
+  371  docker build -t my-first-python-app .
+  372  docker images
+  373  docker run -d -p 5000:5000 --name my-app my-first-python-app
+  374  docker run my-app 
+  375  docker ps
+  376  my-app
+  377  docker restart my-app
+  378  docker stop my-app
+  379  docker restart my-app
+  380  docker rm my-app
+  381  docker stop my-app
+  382  docker rm my-app
+  383  docker ps
+  384  docker run -d -p 5000:5000 --name my-app my-first-python-app
+  385  docker ps
+  386  pip freeze
+  387  hist
+  388  history
+  389  history >> 8-4-command.txt
